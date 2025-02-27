@@ -1,4 +1,5 @@
 If anyone really cares about the folder and the exact name of the killer's portrait file, here's a list:
+
 ```Base folder means the killer doesn't have a specific subfolder, and it just belongs in the default one.```
 
 | Name           | Folder   | Filename                      |
