@@ -34,7 +34,7 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [ ] Cenobite
 - [x] Artist
 - [x] Onryo
-- [ ] Dredge
+- [x] Dredge
 - [x] Mastermind
 - [x] Knight
 - [x] Skull Merchant
