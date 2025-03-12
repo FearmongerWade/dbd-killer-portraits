@@ -45,3 +45,4 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [ ] Lich
 - [ ] Dark Lord
 - [ ] Houndmaster
+- [x] Ghoul
