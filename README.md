@@ -22,9 +22,9 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [x] Spirit
 - [x] Legion
 - [ ] Plague
-- [x] Ghost Face
+- [ ] Ghost Face
 - [x] Demogorgon
-- [ ] Oni
+- [x] Oni
 - [ ] Deathslinger
 - [x] Executioner
 - [x] Blight
@@ -39,10 +39,10 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [x] Knight
 - [x] Skull Merchant
 - [ ] Singularity
-- [ ] Xenomorph
+- [x] Xenomorph
 - [x] Good Guy
 - [x] Unknown
-- [ ] Lich
+- [x] Lich
 - [ ] Dark Lord
 - [ ] Houndmaster
 - [x] Ghoul
