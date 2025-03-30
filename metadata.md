@@ -42,4 +42,4 @@ If anyone really cares about the folder and the exact name of the killer's portr
 | Lich           | Churros  | K36_TheLich_Portrait          |
 | Dark Lord      | Eclair   | K37_TheDracula_Portrait       |
 | Houndmaster    | Gelato   | K38_TheHoundmaster_Portrait   |
-| Ghoul          | add this | when the update drops         |
+| Ghoul          | Icecream | K39_TheGhoul_Portrait         |
