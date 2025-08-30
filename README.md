@@ -25,7 +25,7 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [ ] Ghost Face
 - [x] Demogorgon
 - [x] Oni
-- [ ] Deathslinger
+- [x] Deathslinger
 - [x] Executioner
 - [x] Blight
 - [x] Twins
@@ -46,3 +46,4 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [ ] Dark Lord
 - [ ] Houndmaster
 - [x] Ghoul
+- [ ] Animatronic

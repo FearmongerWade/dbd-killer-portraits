@@ -43,3 +43,4 @@ If anyone really cares about the folder and the exact name of the killer's portr
 | Dark Lord      | Eclair   | K37_TheDracula_Portrait       |
 | Houndmaster    | Gelato   | K38_TheHoundmaster_Portrait   |
 | Ghoul          | Icecream | K39_TheGhoul_Portrait         |
+| Animatronic    |          | K40_                          |
