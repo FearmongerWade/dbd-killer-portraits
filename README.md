@@ -16,13 +16,13 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [ ] Doctor
 - [x] Huntress
 - [ ] Cannibal
-- [ ] Nightmare
+- [x] Nightmare
 - [x] Pig
 - [x] Clown
 - [x] Spirit
 - [x] Legion
-- [ ] Plague
-- [ ] Ghost Face
+- [x] Plague
+- [x] Ghost Face
 - [x] Demogorgon
 - [x] Oni
 - [x] Deathslinger
@@ -31,14 +31,14 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [x] Twins
 - [x] Trickster
 - [x] Nemesis
-- [ ] Cenobite
+- [x] Cenobite
 - [x] Artist
 - [x] Onryo
 - [x] Dredge
 - [x] Mastermind
 - [x] Knight
 - [x] Skull Merchant
-- [ ] Singularity
+- [x] Singularity
 - [x] Xenomorph
 - [x] Good Guy
 - [x] Unknown
@@ -47,3 +47,4 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - [ ] Houndmaster
 - [x] Ghoul
 - [ ] Animatronic
+- [ ] Krasue
