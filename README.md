@@ -8,9 +8,7 @@ If you have any questions, DM me on Discord: `requiem_3301`
 
 ## PORTRAITS REMAINING
 - Hillbilly
-- Hag
 - Doctor
-- Cannibal
 - Dark Lord
 - Houndmaster
 - Animatronic
