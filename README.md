@@ -12,4 +12,3 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - Dark Lord
 - Houndmaster
 - Animatronic
-- Krasue
