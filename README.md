@@ -11,4 +11,3 @@ If you have any questions, DM me on Discord: `requiem_3301`
 - Doctor
 - Dark Lord
 - Houndmaster
-- Animatronic
