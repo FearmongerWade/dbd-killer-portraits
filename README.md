@@ -7,7 +7,6 @@ You can access get the high quality images here, the CLIP files (might convert t
 If you have any questions, DM me on Discord: `requiem_3301`
 
 ## PORTRAITS REMAINING
-- Hillbilly
 - Doctor
 - Dark Lord
 - Houndmaster
