@@ -3,6 +3,9 @@
 You can access get the high quality images here, the CLIP files (might convert them to PSD) and also the ingame versions too.
 If you have any questions, DM me on Discord: `requiem_3301`
 
+Want something like this for your killer skin or a custom portrait that's only yours?
+Commission me [here](https://ko-fi.com/fearmongerwade/commissions)!
+
 ## Download Links
 
 - [NightLight](https://nightlight.gg/packs/wades-killer-portrait-pack)
